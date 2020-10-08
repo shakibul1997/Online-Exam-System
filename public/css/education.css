@@ -1,0 +1,438 @@
+ /*User Educational Information CSS */
+.regi{
+	position:absolute;
+	left:200px;
+	height:1300px;
+	
+}
+
+.education{
+	background:#DCDCDC;  
+	position:absolute;
+	 top:220px;
+	 left:-3px;
+	 border:1px solid #DCDCDC;
+	 width:1110px;
+	 height:50px;
+}
+.education1 label{
+	font-size:15px;
+	color:#000033;
+}
+.education h3{
+	position:absolute;
+	 top:10px;
+	 left:360px;
+	width:297px;
+	font-family:Comic Sans MS;
+	color:#5F9EA0;
+}
+.education1{
+	position:absolute;
+	top:49px;
+	width:1117px;
+	height:448px;
+	
+}
+.head1 {
+	position: absolute;
+	left:0px;
+	top:0px;
+	padding-left:20px;
+	text-align:left;
+	background:#808080;
+	width:1110px;
+	height:30px;
+}
+
+.head1 p{
+	position: absolute;
+	left:20px;
+	top:1px;
+	font-size:20px;
+}
+
+.education-form{
+	background: #C0C0C0;
+	position: absolute;
+	left:0px;
+	top:30px;
+	width:1110px;
+	height:180px;
+	border:1px solid green;
+}
+
+
+/*SSC Information*/
+
+.education-form1{
+position:absolute;
+	 top:20px;
+	 left:60px;
+}
+.education-form1 select{
+	 width:195px;
+	 height:30px;
+	 margin-left:45px;
+}
+.education-form2{
+	position:absolute;
+	 top:65px;
+	 left:60px;
+}
+.education-form2 select{
+	 width:195px;
+	 height:30px;
+	 margin-left:43px;
+}
+
+.education-form3{
+position:absolute;
+top:20px;
+left:630px;
+}
+
+.education-form3 select{
+	width:195px;
+	height:30px;
+	 margin-left:73px;
+}
+.education-form4{
+position:absolute;
+top:65px;
+left:630px;
+}
+.education-form4 select{
+	 margin-left:28px;
+	 width:195px;
+	height:30px;
+}
+.education-form5{
+position:absolute;
+top:110px;
+left:630px;
+}
+.education-form5 select{
+	width:195px;
+	height:30px;
+	 margin-left:73px;
+}
+
+.education-form6{
+	position:absolute;
+	 top:110px;
+	 left:60px;
+	 
+}
+.education-form6 input{
+	 width:193px;
+	 height:30px;
+	  margin-left:108px;
+}
+
+
+
+/*HSC Information*/
+
+.education3{
+	background: #C0C0C0;
+	position: absolute;
+	left:-1px;
+	top:230px;
+	width:1110px;
+	height:180px;
+	border:1px solid green;
+}
+
+.head2 {
+	position: absolute;
+	left:0px;
+	top:-30px;
+	padding-left:20px;
+	text-align:left;
+	background:#808080;
+	width:1110px;
+	height:30px;
+}
+
+.head2 p{
+	position: absolute;
+	left:20px;
+	top:1px;
+	font-size:20px;
+}
+
+
+.education-form8{
+position:absolute;
+	 top:40px;
+	 left:60px;
+}
+.education-form8 select{
+	 width:197px;
+	 height:30px;
+	 margin-left:47px;
+}
+.education-form9{
+	position:absolute;
+	 top:85px;
+	 left:60px;
+}
+.education-form9 select{
+	 width:197px;
+	 height:30px;
+	  margin-left: 45px;
+}
+
+.education-form10{
+position:absolute;
+top:40px;
+left:630px;
+}
+.education-form10 select{
+	 width:197px;
+	 height:30px;
+	  margin-left:54px;
+	}
+
+.education-form11{
+position:absolute;
+top:90px;
+left:630px;
+}
+.education-form11 select{
+	 width:197px;
+	 height:30px;
+	  margin-left:10px;
+	}
+.education-form12{
+position:absolute;
+top:140px;
+left:630px;
+}
+.education-form12 select{
+	width:195px;
+	 margin-left:21px;
+	  height:30px;
+}
+
+.education-form13{
+	position:absolute;
+	 top:128px;
+	 left:60px;
+	 
+}
+.education-form13 input{
+	 width:197px;
+	 height:30px;
+	  margin-left:103px;
+}
+
+
+
+/*Graduation Information*/
+.education4{
+	background: #C0C0C0;
+	position: absolute;
+	left:-1px;
+	top:460px;
+	width:1110px;
+	height:180px;
+	border:1px solid green;
+}
+
+.head3 {
+	position: absolute;
+	left:0px;
+	top:-30px;
+	padding-left:20px;
+	text-align:left;
+	background:#808080;
+	width:1110px;
+	height:30px;
+}
+
+.head3 p{
+	position: absolute;
+	left:20px;
+	top:1px;
+	font-size:20px;
+}
+
+
+.education-form14{
+position:absolute;
+	 top:40px;
+	 left:60px;
+}
+.education-form14 input{
+	 width:197px;
+	 height:30px;
+	 margin-left:65px;
+}
+.education-form15{
+	position:absolute;
+	 top:85px;
+	 left:60px;
+}
+.education-form15 input{
+	 width:197px;
+	 height:30px;
+	  margin-left: 25px;
+}
+
+.education-form16{
+position:absolute;
+top:40px;
+left:630px;
+}
+.education-form16 input{
+	 width:197px;
+	 height:30px;
+	  margin-left:38px;
+	}
+
+.education-form17{
+position:absolute;
+top:90px;
+left:630px;
+}
+.education-form17 select{
+	 width:197px;
+	 height:30px;
+	  margin-left:88px;
+	}
+.education-form18{
+position:absolute;
+top:140px;
+left:630px;
+}
+.education-form18 select{
+	width:195px;
+	 margin-left:98px;
+	  height:30px;
+}
+
+.education-form19{
+	position:absolute;
+	 top:128px;
+	 left:60px;
+	 
+}
+.education-form19 input{
+	 width:197px;
+	 height:30px;
+	  margin-left:122px;
+}
+
+
+
+/*Masters Information*/
+
+.education5{
+	background: #C0C0C0;
+	position: absolute;
+	left:-1px;
+	top:690px;
+	width:1110px;
+	height:180px;
+	border:1px solid green;
+}
+
+.head4 {
+	position: absolute;
+	left:0px;
+	top:-30px;
+	padding-left:20px;
+	text-align:left;
+	background:#808080;
+	width:1110px;
+	height:30px;
+}
+
+.head4 p{
+	position: absolute;
+	left:20px;
+	top:1px;
+	font-size:20px;
+}
+
+
+.education-form20{
+position:absolute;
+	 top:40px;
+	 left:60px;
+}
+.education-form20 input{
+	 width:197px;
+	 height:30px;
+	 margin-left:60px;
+}
+.education-form21{
+	position:absolute;
+	 top:85px;
+	 left:60px;
+}
+.education-form21 input{
+	 width:197px;
+	 height:30px;
+	  margin-left: 17px;
+}
+
+.education-form22{
+position:absolute;
+top:40px;
+left:630px;
+}
+.education-form22 input{
+	 width:197px;
+	 height:30px;
+	  margin-left:20px;
+	}
+
+.education-form23{
+position:absolute;
+top:90px;
+left:630px;
+}
+.education-form23 select{
+	 width:197px;
+	 height:30px;
+	  margin-left:70px;
+	}
+.education-form24{
+position:absolute;
+top:140px;
+left:630px;
+}
+.education-form24 select{
+	width:195px;
+	 margin-left:79px;
+	  height:30px;
+}
+
+.education-form25{
+	position:absolute;
+	 top:128px;
+	 left:60px;
+	 
+}
+.education-form25 input{
+	 width:197px;
+	 height:30px;
+	  margin-left:117px;
+}
+
+
+.button{
+	position:absolute;
+	bottom:-240px;
+	left:300px;
+	width:40px;
+
+}
+.button input{
+	width:500px;
+	background:#6c2a8c;
+	color:white;
+}

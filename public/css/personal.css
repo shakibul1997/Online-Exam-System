@@ -1,0 +1,313 @@
+.personalform{
+	position: absolute;
+	top:250px;
+	left:10px;
+}
+.personalform label{
+	font-size:20px;
+}
+.personalform input{
+	width:330px;
+	height:30px;
+	font-size:15px;
+}
+.personalform select{
+     width:330px;
+	 height:30px;
+	 font-size:15px;
+}
+.personalform input:focus{
+	outline:0;
+
+}
+.personalform select:focus{
+	outline:0;
+}
+.personalform textarea:focus{
+outline:0;
+}
+
+.name{
+	position: absolute;
+	top:-5px;
+	left:40px;
+}
+.married{
+	position: absolute;
+	top:50px;
+	left:40px;
+}
+.father{
+	position: absolute;
+	top:-5px;
+	left:390px;
+}
+
+.mother{
+	position: absolute;
+	top:-5px;
+	left:740px;
+}
+.birth{
+	position: absolute;
+	top:73px;
+	left:390px;
+}
+.religion{
+	position: absolute;
+	top:73px;
+	left:740px;
+}
+.Quota{
+	position: absolute;
+	top:152px;
+	left:740px;
+	width:300px;
+}
+.nid{
+	position: absolute;
+	top:130px;
+	left:40px;
+}
+.nid input{
+	width:25px;
+	height:10px;
+	top:100px;
+	left:10px;
+}
+.bangla{
+	
+	position: absolute;
+	top:152px;
+	left:390px;
+}
+.address{
+	position: absolute;
+	top:280px;
+	left:40px;
+	width:529px;
+	height:50px;
+    background:#DCDCDC; 
+	
+}
+.address p{
+	position: absolute;
+	top:6px;
+	left:140px;
+	font-size:20px;
+	width:200px;
+	font-family:Comic Sans MS;
+	color:#5F9EA0;
+}
+.paddress{
+	position: absolute;
+	top:530px;
+	left:590px;
+	width:521px;
+	height:50px;
+    background:#DCDCDC;
+	
+}
+.paddress p{
+	position: absolute;
+	top:6px;
+	left:180px;
+	font-size:20px;
+	width:200px;
+	font-family:Comic Sans MS;
+	color:#5F9EA0;
+}
+.address-form{
+	position: absolute;
+	top:330px;
+	left:40px;
+	width:528px;
+	height:295px;
+	background:#FFF8DC;
+	border:1px solid #F8F8FF ;
+}
+.paddress-form{
+	position: absolute;
+	top:578px;
+	left:590px;
+	width:518px;
+	height:295px;
+	background:#FFF8DC;
+	border:1px solid #F8F8FF ;
+}
+.address-form input{
+  width:250px;
+  margin-left:15px;
+}
+.address-form label{
+  margin-left:15px;
+}
+
+.address-form select{
+	 width:233px;
+}
+
+.address-form1{
+	margin-top:10px;
+}
+
+.address-form2{
+	position: absolute;
+    top:10px;
+	left:290px;
+}
+.address-form2 label{
+	margin-left:0px;
+}
+
+.address-form3{
+	margin-left:15px;
+	margin-top:20px;
+}
+.address-form3 label{
+	margin-left:0px;
+}
+.address-form4{
+	position: absolute;
+    top:100px;
+	left:290px;
+}
+.address-form4 label{
+	margin-left:0px;
+}
+
+.address-form5{
+	position: absolute;
+    top:200px;
+	
+}
+
+.address-form6{
+	position:absolute;
+    top:200px;
+    left:270px;
+}
+.address-form6 input{
+	width:230px;
+}
+
+.paddress-form input{
+  width:240px;
+  height:30px;
+  margin-left:15px;
+  font-size:15px;
+}
+.paddress-form label{
+  margin-left:15px;
+  height:30px;
+  font-size:20px;
+}
+
+.paddress-form select{
+	 width:225px;
+	 height:35px;
+}
+
+.paddress-form1{
+	margin-top:10px;
+}
+
+.paddress-form2{
+	position: absolute;
+    top:10px;
+	left:290px;
+}
+.paddress-form2 label{
+	margin-left:0px;
+}
+
+.paddress-form3{
+	margin-left:15px;
+	margin-top:20px;
+}
+.paddress-form3 label{
+	margin-left:0px;
+}
+
+
+.paddress-form4{
+	position: absolute;
+    top:100px;
+	left:290px;
+}
+.paddress-form4 label{
+	margin-left:0px;
+}
+
+.paddress-form5{
+	position: absolute;
+    top:200px;
+	
+}
+
+.paddress-form6{
+	position:absolute;
+    top:200px;
+    left:270px;
+}
+.paddress-form6 input{
+	width:230px;
+}
+
+
+
+.upload img{
+	position: absolute;
+	bottom:350px;
+	height:50px; 
+	left:250px;
+	width:80px; 
+}
+.upload input{
+	position: absolute;
+	top:910px;
+	height:30px;
+	left:50px; 
+}
+.upload label{
+	position: absolute;
+	top:880px;
+	height:30px;
+	left:50px; 
+	font-size:20px;
+}
+
+.signture img{
+	position: absolute;
+	bottom:350px;
+	height:50px; 
+	left:900px;
+	width:80px; 
+}
+.signture input{
+	position: absolute;
+	top:910px;
+	height:30px;
+	left:700px; 
+}
+.signture label{
+	position: absolute;
+	top:880px;
+	height:30px;
+	left:700px; 
+	font-size:20px;
+}
+.button{
+	position:absolute;
+	top:1110px;
+	left:300px;
+	width:40px;
+
+}
+
+
+.button input{
+	width:500px;
+	background:#6c2a8c;
+	color:white;
+}

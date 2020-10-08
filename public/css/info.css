@@ -1,0 +1,103 @@
+.body{
+	width:105%;
+	position: absolute;
+	top:0px;
+	background:#f8f9fa;
+	 height:1300px;
+}
+.regi{
+	position: absolute;
+	top:90px;
+	right:180px;
+	background:white;
+	border:2px solid white;
+	width:1110px;
+	height:1300px;
+	border-radius: 4px;
+    box-shadow: 0 0 6px 3px #cdcdcd;
+}
+.regi h3{
+	text-align:center;
+	font-family:Comic Sans MS;
+}
+.regi p{
+	position: absolute;
+    right:460px;
+    top:40px;
+	}
+.reginfo{
+	background:#6c757d;
+	border:1px solid #6c757d;
+	position: absolute;
+	top:100px;
+	left:25px;
+	width:340px;
+	height:97px;
+}
+.reginfo a{
+	position: absolute;
+    right:130px;
+    top:60px;
+    color:white;
+    text-decoration: none;
+}
+.reginfo span i{
+	position: absolute;
+	right:184px;
+	top:27px;
+	color: #777;
+}
+
+.perinfo{
+	background:#6c757d;
+	border:1px solid #6c757d;
+	position: absolute;
+	top:100px;
+	right:397px;
+	width:340px;
+	height:97px;
+}
+.perinfo a{
+	position: absolute;
+    right:110px;
+    top:60px;
+    color:white;
+    text-decoration: none;
+}
+.perinfo span i{
+	position: absolute;
+	right:184px;
+	top:27px;
+	color: #777;
+}
+
+.jobinfo{
+	background:#6c757d;
+	border:1px solid #6c757d;
+	position: absolute;
+	top:100px;
+	right:52px;
+	width:340px;
+	height:97px;
+}
+.jobinfo p{
+	color:white;
+	position: absolute;
+	right:140px;
+	top:60px;
+}
+.jobinfo span i{
+	position: absolute;
+	right:182px;
+	top:29px;
+	color: #777;
+}
+.dot{
+	position: absolute;
+	right:170px;
+	top:20px;
+  height: 35px;
+  width: 40px;
+  background-color:#ddd;
+  border-radius: 100%;
+}
